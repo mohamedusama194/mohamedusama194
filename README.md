@@ -26,7 +26,7 @@
 
 ### 🚀 Projects:
 
-- **[n8n Community Node](https://www.npmjs.com/package/PACKAGE-NAME)** — Published npm package that lets external systems integrate with the Flovoo platform through n8n workflows.
+- **[n8n-nodes-flovoo](https://github.com/Eduncy-tech/n8n-nodes-flovoo)** ([npm](https://www.npmjs.com/package/n8n-nodes-flovoo)) — Official n8n community node for the Flovoo WhatsApp Business API. Includes an action node covering contacts, conversations, messages, templates, and webhooks, plus a trigger node that auto-subscribes to webhooks and verifies HMAC-SHA256 signatures.
 - **[E-commerce API (TypeScript)](https://github.com/mohamedusama194/E-commerce_TypeScript-)** — E-commerce backend API built with TypeScript.
 
 ### 📊 GitHub Stats:
